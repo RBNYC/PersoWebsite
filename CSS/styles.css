@@ -1,0 +1,170 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #383e56;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #383e56;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.8rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 5%;
+  color: #EAF6F6;
+  margin: 70px auto;
+}
+
+/***************************TOP DIVISION**************************/
+.top-container {
+  background: linear-gradient(#de8384, #f5b298, #bbbff0);
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  width: 10%;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  width: 10%;
+  Left: 300px;
+  bottom: 300px;
+}
+
+.prog {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 100px;
+  text-align: left;
+}
+
+/***************************MIDDLE DIVISION**************************/
+.middle-container{
+  margin: 100px 0;
+}
+
+.profile-picture {
+  height: 150px;
+  width: auto;
+  margin-bottom: 10px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.code_img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.design_img {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+.keywords {
+  font-weight: bold;
+}
+
+.contact-message {
+  width: 40%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.btn {
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #383E56);
+  background-image: -moz-linear-gradient(top, #11999E, #383E56);
+  background-image: -ms-linear-gradient(top, #11999E, #383E56);
+  background-image: -o-linear-gradient(top, #11999E, #383E56);
+  background-image: linear-gradient(to bottom, #11999E, #383E56);
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 100;
+  padding: 20px;
+  margin-top: 20px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #000000 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #0d8085, #252938);
+  background-image: -moz-linear-gradient(top, #0d8085, #252938);
+  background-image: -ms-linear-gradient(top, #0d8085, #252938);
+  background-image: -o-linear-gradient(top, #0d8085, #252938);
+  background-image: linear-gradient(to bottom, #0d8085, #252938);
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  text-decoration: none;
+}
+
+/***************************BOTTOM DIVISION**************************/
+.bottom-container {
+  background-color: #ced1f5;
+  position: relative;
+  padding: 10px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  color: #8c93ed;
+  padding: 5px 0 10px;
+}
+
+.linkedin_img {
+  padding-top: 20px;
+  width: 2%;
+}
