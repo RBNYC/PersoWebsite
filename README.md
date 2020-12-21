@@ -1,3 +1,3 @@
-# PersoWebsite
+# PersoWebsite using only CSS and HTML
 
-https://rbnyc.github.io/PersoWebsite/
+https://rbnyc.github.io/perso-site1/
